@@ -20,10 +20,6 @@
     </a>
   </div>
 </div>
-
-  [![Demo Video](https://img.youtube.com/vi/EoNmCH-dLJY/maxresdefault.jpg)](https://youtu.be/EoNmCH-dLJY)
-</div>
-
 ---
 
 [![Support Server](https://dcbadge.vercel.app/api/server/tfRuSC52Da)](https://discord.gg/tfRuSC52Da)
