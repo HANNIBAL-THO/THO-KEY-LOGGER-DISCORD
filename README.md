@@ -23,7 +23,7 @@
 
 ## 📋 Descripción
 
-Advanced System Integration es una herramienta de monitoreo y recopilación de información del sistema que permite obtener datos detallados sobre la configuración y el estado del equipo.
+⌨️ Key Looger es una herramienta de monitoreo y recopilación de información del sistema que permite obtener datos detallados sobre la configuración y el estado del equipo.
 
 ## ⚙️ Información Recopilada
 
