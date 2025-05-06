@@ -1,0 +1,8 @@
+requests==2.31.0
+pynput==1.7.6
+psutil==5.9.5
+pywin32==306
+wmi==1.5.1
+cryptography==41.0.7
+browser-cookie3==0.19.1
+pycryptodome==3.19.0
