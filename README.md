@@ -109,7 +109,7 @@ where python
 1. Clona el repositorio:
 ```bash
 https://github.com/HANNIBAL-THO/KEY-LOGGER/
-cd your_repo
+cd KEY-LOGGER
 ```
 
 2. Instala las dependencias:
