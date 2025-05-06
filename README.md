@@ -17,7 +17,7 @@
 
 ---
 
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/tfRuSC52Da)
+[![Support Server](https://dcbadge.vercel.app/api/server/tfRuSC52Da)](https://discord.gg/tfRuSC52Da)
 [![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
 
