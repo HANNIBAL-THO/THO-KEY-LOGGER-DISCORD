@@ -12,7 +12,7 @@
   
   ### 🎥 Demo en Video
   
-  [![Demo Video](https://www.youtube.com/watch?v=EoNmCH-dLJY&ab_channel=TODOHACKOFFICIAL)]()
+  [![Demo Video](https://img.youtube.com/vi/EoNmCH-dLJY?si=7zJiGvl6bHq_Wh-l/maxresdefault.jpg)]()
 </div>
 
 ---
