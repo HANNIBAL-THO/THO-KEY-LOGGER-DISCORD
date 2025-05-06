@@ -108,7 +108,7 @@ where python
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/your_username/your_repo.git
+https://github.com/HANNIBAL-THO/KEY-LOGGER/
 cd your_repo
 ```
 
