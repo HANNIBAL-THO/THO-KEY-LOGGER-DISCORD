@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="THO X H4X Logo" width="200"/>
   
-  # 🔒 Advanced System Integration (THO X H4X)
+  # ⌨️ KEY LOGGER (THO X H4X)
   
   <img src="assets/preview.png" alt="Preview" width="600"/>
   
