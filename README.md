@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="THO X H4X Logo" width="200"/>
   
-  # ⌨️ KEY LOGGER (THO X H4X)
+  # ⌨️ KEY LOGGER [ THO X H4X ]
   
   <div class="preview-gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: 20px auto;">
     <img src="assets/preview1.png" alt="Preview 1" style="width: 100%; border-radius: 8px;"/>
