@@ -1,4 +1,16 @@
-# 🔒 Advanced System Integration (THO X H4X)
+<div align="center">
+  <img src="assets/logo.png" alt="THO X H4X Logo" width="200"/>
+  
+  # 🔒 Advanced System Integration (THO X H4X)
+  
+  <img src="assets/preview.png" alt="Preview" width="600"/>
+  
+  ### 🎥 Demo en Video
+  
+  [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+</div>
+
+---
 
 [![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/tfRuSC52Da)
 [![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)](https://youtu.be/your_video_id)
