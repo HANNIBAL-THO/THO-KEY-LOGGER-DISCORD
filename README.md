@@ -3,7 +3,12 @@
   
   # ⌨️ KEY LOGGER (THO X H4X)
   
-  <img src="assets/preview.png" alt="Preview" width="600"/>
+  <div class="preview-gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: 20px auto;">
+    <img src="assets/preview1.png" alt="Preview 1" style="width: 100%; border-radius: 8px;"/>
+    <img src="assets/preview2.png" alt="Preview 2" style="width: 100%; border-radius: 8px;"/>
+    <img src="assets/preview3.png" alt="Preview 3" style="width: 100%; border-radius: 8px;"/>
+    <img src="assets/preview4.png" alt="Preview 4" style="width: 100%; border-radius: 8px;"/>
+  </div>
   
   ### 🎥 Demo en Video
   
