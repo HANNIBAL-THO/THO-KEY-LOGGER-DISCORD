@@ -47,6 +47,44 @@ Advanced System Integration es una herramienta de monitoreo y recopilación de i
   - Servicios de seguridad
   - Estado UAC
 
+## 🚀 Configuración del Entorno
+
+### Configurar Entorno Virtual (Windows)
+
+1. Abre PowerShell o CMD como administrador y verifica Python:
+```powershell
+python --version
+```
+
+2. Instala virtualenv si no lo tienes:
+```powershell
+pip install virtualenv
+```
+
+3. Crea el entorno virtual:
+```powershell
+python -m venv .venv
+```
+
+4. Activa el entorno virtual:
+```powershell
+# PowerShell
+.\.venv\Scripts\Activate.ps1
+
+# CMD
+.\.venv\Scripts\activate.bat
+```
+
+5. Verifica la activación (debe mostrar (.venv)):
+```powershell
+python -V
+```
+
+> 💡 **Nota**: Si tienes problemas con la ejecución de scripts en PowerShell, ejecuta:
+> ```powershell
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+> ```
+
 ## 🚀 Instalación
 
 1. Clona el repositorio:
