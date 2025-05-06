@@ -20,7 +20,6 @@
     </a>
   </div>
 </div>
----
 
 [![Support Server](https://dcbadge.vercel.app/api/server/tfRuSC52Da)](https://discord.gg/tfRuSC52Da)
 [![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)](https://youtu.be/EoNmCH-dLJY)
