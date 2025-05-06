@@ -18,7 +18,7 @@
 ---
 
 [![Support Server](https://dcbadge.vercel.app/api/server/tfRuSC52Da)](https://discord.gg/tfRuSC52Da)
-[![Tutorial](https://youtu.be/EoNmCH-dLJY)]()
+[![Tutorial](https://youtu.be/EoNmCH-dLJY)](https://youtu.be/EoNmCH-dLJY)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
 
 ## 📋 Descripción
