@@ -12,7 +12,7 @@
   
   ### 🎥 Demo en Video
   
-  [![Demo Video](https://img.youtube.com/vi/EoNmCH-dLJY?si=7zJiGvl6bHq_Wh-l/maxresdefault.jpg)]()
+  [![Demo Video](https://img.youtube.com/vi/EoNmCH-dLJY/maxresdefault.jpg)](https://youtu.be/EoNmCH-dLJY)
 </div>
 
 ---
