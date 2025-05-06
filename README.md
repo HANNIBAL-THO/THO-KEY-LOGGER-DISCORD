@@ -12,10 +12,14 @@
   
   ### 🎥 Demo en Video
   
-  <video width="100%" controls>
-    <source src="https://www.youtube.com/watch?v=EoNmCH-dLJY" type="video/mp4">
-    Tu navegador no soporta videos
-  </video>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=EoNmCH-dLJY" target="_blank">
+      <img src="https://img.youtube.com/vi/EoNmCH-dLJY/0.jpg" width="600" height="340" />
+      <br>
+      <img src="https://img.shields.io/badge/▶️%20Ver%20Video%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver en YouTube" />
+    </a>
+  </div>
+</div>
 
   [![Demo Video](https://img.youtube.com/vi/EoNmCH-dLJY/maxresdefault.jpg)](https://youtu.be/EoNmCH-dLJY)
 </div>
