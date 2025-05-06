@@ -18,7 +18,7 @@
 ---
 
 [![Support Server](https://dcbadge.vercel.app/api/server/tfRuSC52Da)](https://discord.gg/tfRuSC52Da)
-[![Tutorial](https://img.shields.io/badge/Tutorial-YouTube-red.svg)]()
+[![Tutorial](https://i.ytimg.com/vi/EoNmCH-dLJY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXXR-zXiJ0u6ZERjCbJ1ZCfmu_Kg)]()
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
 
 ## 📋 Descripción
