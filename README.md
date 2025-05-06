@@ -12,6 +12,11 @@
   
   ### 🎥 Demo en Video
   
+  <video width="100%" controls>
+    <source src="https://www.youtube.com/watch?v=EoNmCH-dLJY" type="video/mp4">
+    Tu navegador no soporta videos
+  </video>
+
   [![Demo Video](https://img.youtube.com/vi/EoNmCH-dLJY/maxresdefault.jpg)](https://youtu.be/EoNmCH-dLJY)
 </div>
 
