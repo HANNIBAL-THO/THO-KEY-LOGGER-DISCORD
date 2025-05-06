@@ -58,7 +58,7 @@
 
 #### Requisitos Previos
 - Windows 10 o Windows 11
-- Python 3.8 o superior ([Descargar Python](https://www.python.org/downloads/))
+- Python 3.8 o superior ([Descargar Python](https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe))
 
 #### Pasos de Configuración
 
