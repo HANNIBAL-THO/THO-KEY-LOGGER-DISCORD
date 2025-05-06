@@ -49,41 +49,55 @@ Advanced System Integration es una herramienta de monitoreo y recopilación de i
 
 ## 🚀 Configuración del Entorno
 
-### Configurar Entorno Virtual (Windows)
+### Configurar Entorno Virtual (Windows 10/11)
 
-1. Abre PowerShell o CMD como administrador y verifica Python:
+#### Requisitos Previos
+- Windows 10 o Windows 11
+- Python 3.8 o superior ([Descargar Python](https://www.python.org/downloads/))
+
+#### Pasos de Configuración
+
+1. Abre PowerShell como administrador:
+   - Presiona `Windows + X`
+   - Selecciona "Windows PowerShell (Admin)" o "Terminal (Admin)"
+
+2. Verifica la instalación de Python:
 ```powershell
 python --version
+# Debería mostrar Python 3.8 o superior
 ```
 
-2. Instala virtualenv si no lo tienes:
+3. Actualiza pip:
 ```powershell
-pip install virtualenv
+python -m pip install --upgrade pip
 ```
 
-3. Crea el entorno virtual:
+4. Crea un nuevo entorno virtual:
 ```powershell
-python -m venv .venv
+python -m venv .venv --upgrade-deps
 ```
 
-4. Activa el entorno virtual:
+5. Activa el entorno virtual:
 ```powershell
-# PowerShell
+# Para PowerShell:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 .\.venv\Scripts\Activate.ps1
 
-# CMD
+# Para CMD:
 .\.venv\Scripts\activate.bat
 ```
 
-5. Verifica la activación (debe mostrar (.venv)):
+6. Confirma la activación:
 ```powershell
-python -V
+# Deberías ver (.venv) al inicio de la línea
+where python
+# Debería mostrar la ruta dentro de .venv
 ```
 
-> 💡 **Nota**: Si tienes problemas con la ejecución de scripts en PowerShell, ejecuta:
-> ```powershell
-> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-> ```
+> 💡 **Solución de Problemas**:
+> - Si recibes errores de permisos, asegúrate de usar PowerShell como administrador
+> - Si el script está bloqueado, ejecuta: `Unblock-File -Path .\.venv\Scripts\Activate.ps1`
+> - Para desactivar el entorno: `deactivate`
 
 ## 🚀 Instalación
 
