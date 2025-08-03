@@ -140,7 +140,7 @@ python compile.py
 
 ¿Necesitas ayuda? ¡Únete a nuestro servidor de Discord!
 
-[![Discord](https://img.shields.io/badge/Unirse%20al%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tfRuSC52Da)
+[![Discord](https://img.shields.io/badge/Unirse%20al%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uPESr5v7yQ)
 
 ## ⚠️ Aviso Legal
 
