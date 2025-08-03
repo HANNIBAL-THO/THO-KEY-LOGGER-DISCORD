@@ -112,8 +112,8 @@ where python
 
 1. Clona el repositorio:
 ```bash
-https://github.com/HANNIBAL-THO/KEY-LOGGER/
-cd KEY-LOGGER
+https://github.com/HANNIBAL-THO/THO-KEY-LOGGER-DISCORD/
+cd THO-KEY-LOGGER-DISCORD
 ```
 
 2. Instala las dependencias:
